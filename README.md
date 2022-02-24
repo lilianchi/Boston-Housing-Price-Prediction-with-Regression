@@ -1,4 +1,11 @@
-# Boston-Housing-Price-Prediction-with-Regression
+### Boston-Housing-Price-Prediction-with-Regression
+
+### Programming language
+Python
+
+### Authors
+* Yichen Zhang (Professor)
+* Li-Ci Chuang
 
 ### Libraries
 * matplotlib.pyplot
