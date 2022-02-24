@@ -1,4 +1,5 @@
 ### Boston-Housing-Price-Prediction-with-Regression
+Train the model and get the accuracy, do the forecast and visualize it.
 
 ### Programming language
 Python
